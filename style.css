@@ -58,6 +58,7 @@ nav{
 
 section {
     width: 100%;
+    max-width: 50vh;
     display: flex;
     flex-direction: row-reverse;
 }
